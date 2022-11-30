@@ -1,5 +1,6 @@
 # PROJETO API REST
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Paucinha/projeto-api/blob/master/LICENSE)
+
+[![GitHub top language](https://img.shields.io/github/languages/top/paucinha/projeto-api)](https://github.com/Paucinha/projeto-api/blob/master/LICENSE)
 
 # Sobre o projeto
 
