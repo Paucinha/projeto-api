@@ -1,19 +1,15 @@
 # PROJETO API REST
-
-## Projeto Integrador Campinho Digital
-
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Paucinha/projeto-api/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Paucinha/projeto-api/blob/master/LICENSE)
 
 # Sobre o projeto
 
-Projeto desenvolvido durante o curso de Programação Web Full Stack, fornecido pela instituição Campinho Digital (https://www.campinhodigital.org/).
+Projeto Integrador desenvolvido durante o curso de Programação Web Full Stack, fornecido pela [Campinho Digital](https://www.campinhodigital.org/).
 
 Criação de um  API REST usando Express para criar um CRUD com Node.js. Para a solução, foi desenvolvido uma API que realize um CRUD de um banco de dados para cadastro de dados pessoais para auxiliar a Campinho Digital.
 
-O projeto foi desenvolvido em três sprints.
+![API](https://github.com/Paucinha/assets/blob/master/API.png?raw=true)
 
-## CRUD
-Com as ações de listar, cadastrar, editar e excluir (GET: List e FindById, POST: Create, PUT: Update e DEL: Delete.
+O projeto foi desenvolvido em três sprints.
 
 # Tecnologias utilizadas
 
