@@ -67,4 +67,4 @@ npm install mongoose
 
 Paucia Lira Nunes Lisboa
 
-https://www.linkedin.com/in/paucia-lisboa# projeto-api-rest
+https://www.linkedin.com/in/paucia-lisboa
