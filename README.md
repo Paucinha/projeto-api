@@ -7,7 +7,7 @@ Projeto Integrador desenvolvido durante o curso de Programação Web Full Stack,
 
 Criação de um  API REST usando Express para criar um CRUD com Node.js. Para a solução, foi desenvolvido uma API que realize um CRUD de um banco de dados para cadastro de dados pessoais para auxiliar a Campinho Digital.
 
-![API](https://github.com/Paucinha/assets/blob/master/API.png?raw=true)
+![API](https://github.com/Paucinha/assets/blob/master/apiP.png?raw=true)
 
 O projeto foi desenvolvido em três sprints.
 
