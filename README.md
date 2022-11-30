@@ -2,7 +2,7 @@
 
 ## Projeto Integrador Campinho Digital
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Paucinha/API-REST/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Paucinha/projeto-api/blob/master/LICENSE) 
 
 # Sobre o projeto
 
