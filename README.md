@@ -1,6 +1,6 @@
 # PROJETO API REST
 
-[![GitHub top language](https://img.shields.io/github/languages/top/paucinha/projeto-api)](https://github.com/Paucinha/projeto-api/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/paucinha/projeto-api)](https://github.com/Paucinha/projeto-api/blob/master/LICENSE)
 
 # Sobre o projeto
 
