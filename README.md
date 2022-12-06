@@ -75,6 +75,13 @@ Visual Studio Code
 
 # instalar Angular CLI
 npm install -g @angular/cli
+
+# criar um novo projeto
+ng new my-first-project
+
+# executar o projeto/aplicativo
+ng serve
+(o comando deve ser execurado dentro do diretorio do projeto/aplicativo)
 ```
 
 # Autora
