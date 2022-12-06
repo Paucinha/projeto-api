@@ -15,7 +15,6 @@ O projeto foi desenvolvido em três sprints.
 # Tecnologias utilizadas
 
 ## BackEnd
-
 - TypeScript
 - Node.js
 - npm
@@ -23,6 +22,10 @@ O projeto foi desenvolvido em três sprints.
 - MongoDB
 - Visual Studio Code
 - Insomnia
+
+## FrontEnd
+- Angular
+
 
 # Como foi executado o projeto
 
