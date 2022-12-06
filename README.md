@@ -24,8 +24,7 @@ O projeto foi desenvolvido em três sprints.
 - Insomnia
 
 ## FrontEnd
-- Angular
-
+- Angular / HTML / CSS / JS / TypeScript
 
 # Como foi executado o projeto
 
@@ -33,7 +32,7 @@ O projeto foi desenvolvido em três sprints.
 Pré-requisitos: Node.js, Git Bash
 
 ```bash
-# entrar na pasta do projeto backend
+# entrar na pasta do projeto BackEnd
 Visual Studio Code
 
 # iniciar o projeto
@@ -65,6 +64,17 @@ npm run dev
 
 # configurar a conexão com o Banco de Dados
 npm install mongoose
+```
+
+## FrontEnd
+Pré-requisitos: npm / Angular CLI
+
+```bash
+# entrar na pasta do projeto frontEnd
+Visual Studio Code
+
+# instalar Angular CLI
+npm install -g @angular/cli
 ```
 
 # Autora
