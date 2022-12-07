@@ -80,7 +80,7 @@ npm install -g @angular/cli
 ng new my-first-project
 
 # executar o projeto/aplicativo
-ng serve (o comando deve ser executado dentro do diretório do projeto)
+ng serve 
 ```
 
 # Autora
