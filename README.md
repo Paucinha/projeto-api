@@ -81,7 +81,7 @@ ng new my-first-project
 
 # executar o projeto/aplicativo
 ng serve
-(o comando deve ser execurado dentro do diretorio do projeto/aplicativo)
+(o comando deve ser executado dentro do diretório do projeto/aplicativo)
 ```
 
 # Autora
