@@ -77,7 +77,9 @@ Visual Studio Code
 npm install -g @angular/cli
 
 # criar um novo projeto
-ng new my-first-project
+ng new nome-do-projeto
+
+
 
 # executar o projeto/aplicativo
 ng serve 
