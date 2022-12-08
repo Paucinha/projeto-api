@@ -10,7 +10,11 @@ Criação de um  API REST usando Express para criar um CRUD com Node.js. Para a 
 
 ![API](https://github.com/Paucinha/assets/blob/master/globalArchitecture.png?raw=true)
 
-O projeto foi desenvolvido em três sprints.
+O projeto foi desenvolvido em três sprints:
+
+1 - Decisão do tema através do quadro Kanban;
+2 - Desenvolvimento de uma API por meio do BackEnd;
+3 - Testes unitários necessários.
 
 # Tecnologias utilizadas
 
@@ -79,7 +83,11 @@ npm install -g @angular/cli
 # criar um novo projeto
 ng new nome-do-projeto
 
+# entrar dentro da pasta onde foi criado o projeto
+cd nome-da-pasta
 
+# startar o projeto
+ng serve nome-do-projeto
 
 # executar o projeto/aplicativo
 ng serve 
